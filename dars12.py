@@ -4,7 +4,7 @@
 
 # Muallif: Islamic
 
-# SintaxError
+# SyntaxError
 # print "Hello World!"
 # print("Hello World!"   
 ## EOF(End Of Function) xatoligini o'zimiz qidirib topishimiz shart!
